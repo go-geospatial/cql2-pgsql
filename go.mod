@@ -1,6 +1,6 @@
 module github.com/go-geospatial/cql2-pgsql
 
-go 1.22.2
+go 1.20.0
 
 require (
 	github.com/antlr4-go/antlr/v4 v4.13.0
